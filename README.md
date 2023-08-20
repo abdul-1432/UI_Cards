@@ -42,7 +42,7 @@ This repository contains a simple example of creating a UI card using HTML and C
 
 2. Locate the following sections:
 
-   ```html
+   ```HTML
    <div class="card-content">
        <h2 class="card-title">Card Title</h2>
        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et felis justo.</p>
