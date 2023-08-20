@@ -3,6 +3,7 @@
 This repository contains a simple example of creating a UI card using HTML and CSS. UI cards are commonly used in web development to display information in a visually appealing and organized manner. This project demonstrates how to create a basic UI card with customizable content and styling.
 
 ![1](https://github.com/abdul-1432/UI_Cards/assets/124916666/d329197a-9028-4922-9ed6-443798c164eb)
+![2](https://github.com/abdul-1432/UI_Cards/assets/124916666/5b264058-9de9-44aa-96fe-2a4cfb0111e8)
 
 
 ## Features
