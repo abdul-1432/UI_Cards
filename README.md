@@ -4,6 +4,7 @@ This repository contains a simple example of creating a UI card using HTML and C
 
 ![1](https://github.com/abdul-1432/UI_Cards/assets/124916666/d329197a-9028-4922-9ed6-443798c164eb)
 ![2](https://github.com/abdul-1432/UI_Cards/assets/124916666/5b264058-9de9-44aa-96fe-2a4cfb0111e8)
+![3](https://github.com/abdul-1432/UI_Cards/assets/124916666/aebec45d-2aa8-4101-b270-edc5d7f2318d)
 
 
 ## Features
