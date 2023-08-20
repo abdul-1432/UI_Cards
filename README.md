@@ -27,7 +27,7 @@ This repository contains a simple example of creating a UI card using HTML and C
 2. Navigate to the repository's directory:
 
    ```bash
-   cd ui-card-html-css
+   cd https://github.com/abdul-1432/UI_Cards/blob/main/UI%20Cards/home.html
    ```
 
 3. Open the `index.html` file in a web browser to see the UI card in action.
